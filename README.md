@@ -12,8 +12,8 @@ This is a simple App for Firebase util (Android, Kotlin)
 Create Firebase project and replace the google-services.json with yours. 
 
 * Step 2 : Build and run \
-Open project with Android studio \
-Build and run project
+Open project with Android studio. \
+Build and run project.
 
 * Step 3 Check token and messages \
 Check token, for example : [dsmG***** ... ...] \
