@@ -6,7 +6,7 @@ This is a simple App for Firebase util (Android, Kotlin)
 
 * Receive push notification token and messages.
 
-## Getting Start
+## Getting Started
 
 * Step 1 : First of all \
 Create Firebase project and replace the google-services.json with yours. 
