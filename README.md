@@ -1,4 +1,4 @@
-# android-kotlin-firebase-devel
+# android-kotlin-firebase
 
 This is a simple App for Firebase util (Android, Kotlin)
 
