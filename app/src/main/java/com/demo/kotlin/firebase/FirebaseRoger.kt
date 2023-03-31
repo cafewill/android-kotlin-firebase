@@ -51,7 +51,7 @@ class FirebaseRoger : FirebaseMessagingService() {
                 PendingIntent.FLAG_UPDATE_CURRENT
             )
             val notificationBuilder = NotificationCompat.Builder (applicationContext, channelId)
-                .setSmallIcon (R.mipmap.ic_launcher_round)
+                .setSmallIcon (R.mipmap.ic_launcher)
                 .setAutoCancel (false)
                 .setShowWhen (true)
                 .setWhen (System.currentTimeMillis())
